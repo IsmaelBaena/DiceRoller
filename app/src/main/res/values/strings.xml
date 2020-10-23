@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="title_text">ITB Gambling</string>
+    <string name="roll_button_text">Roll the Dice</string>
+    <string name="dice_rolled_text">Dice Rolled</string>
+    <string name="image_description">Una imagen de la aplicación</string>
+    <string name="restart_button_text">Restart</string>
+</resources>
